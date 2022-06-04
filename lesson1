@@ -1,0 +1,13 @@
+data = input("Введите дату: ")
+time = input("Введите задачу: ")
+
+data1 = input("Введите дату: ")
+time1 = input("Введите задачу: ")
+
+data2 = input("Введите дату: ")
+time2 = input("Введите задачу: ")
+#print(name)
+
+print((data) , (time))
+print((data1) , (time1))
+print((data2) , (time2))
