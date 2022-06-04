@@ -11,3 +11,5 @@ time2 = input("Введите задачу: ")
 print((data) , (time))
 print((data1) , (time1))
 print((data2) , (time2))
+
+dis
